@@ -1,8 +1,10 @@
-# Application Source Code using React App
-*It is based on a [tutorial website](https://medium.com/@michaelekpang/creating-a-ci-cd-pipeline-using-github-actions-b65bb248edfe).
+# Continuous Integration / Continuous Deployment (CI/CD) project
+
+## Application Source Code using React App
+*based on a [tutorial website](https://medium.com/@michaelekpang/creating-a-ci-cd-pipeline-using-github-actions-b65bb248edfe).
 *This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Continuous Integration / Continuous Deployment (CI/CD) Pipeline
+## CI/CD Pipeline
 * Use Github actions to create a CI/CD pipeline.
 * Workflow files are capture under: github-project/.github/workflows/.
 * Pushing from VS will update Github repository and update App on Heroku.
