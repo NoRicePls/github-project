@@ -2,7 +2,7 @@
 
 ## Application Source Code using React App
 
-*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## CI/CD Pipeline
 * Use Github actions to create a CI/CD pipeline.
@@ -10,8 +10,8 @@
 * Pushing from VS will update Github repository and update App on Heroku.
  
 ## Local and Global Host
-*For global host by Heroku, please click [here](https://cicd-github-project.herokuapp.com/).
-*For local host using Visual Studio (VS), please click here.
+* For global host by Heroku, please click [here](https://cicd-github-project.herokuapp.com/).
+* For local host using Visual Studio (VS), please click here.
 #### 1. `git clone https://github.com/NoRicePls/github-project.git`
 Enter the following from the project directory terminal:
 #### 2. `npm install`
@@ -20,8 +20,8 @@ Enter the following from the project directory terminal:
 The page will reload if you make edits and you will also see any lint errors in the console.
 
 ## Steps 
-*For setting up Github actions to create a CI/CD pipeline, please click [here](https://medium.com/@michaelekpang/creating-a-ci-cd-pipeline-using-github-actions-b65bb248edfe).
-*For Heroku App hosting, please click [here](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app).
+* For setting up Github actions to create a CI/CD pipeline, please click [here](https://medium.com/@michaelekpang/creating-a-ci-cd-pipeline-using-github-actions-b65bb248edfe).
+* For Heroku App hosting, please click [here](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app).
 
 ## Thoughts
 ### Issues faced:
