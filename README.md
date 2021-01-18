@@ -13,11 +13,11 @@
 * For global host by Heroku, please click [here](https://cicd-github-project.herokuapp.com/).
 * For local host using Visual Studio (VS), please click here.
 #### 1. `git clone https://github.com/NoRicePls/github-project.git`
-Enter the following from the project directory terminal:
+ Enter the following from the project directory terminal:
 #### 2. `npm install`
 #### 3. `npm start`
 #### 4. open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits and you will also see any lint errors in the console.
+ The page will reload if you make edits and you will also see any lint errors in the console.
 
 ## Steps For Setting Up 
 * For setting up Github actions to create a CI/CD pipeline, please click [here](https://medium.com/@michaelekpang/creating-a-ci-cd-pipeline-using-github-actions-b65bb248edfe).
