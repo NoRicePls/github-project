@@ -35,4 +35,3 @@ I didn't realise that I was not working on the Master branch when I failed to do
 #### 1. How to use Github Actions to create CI/CD pipeline 
 #### 2. How to host App from Heroku.
 
-.
