@@ -9,9 +9,10 @@
 * Workflow files are capture under: github-project/.github/workflows/.
 * Pushing from VS will update Github repository and update App on Heroku.
  
-## Local and Global Host
+## App Host on Heroku
 * For global host by Heroku, please click [here](https://cicd-github-project.herokuapp.com/).
-* For local host using Visual Studio (VS), please click here.
+
+## local Host
 #### 1. `git clone https://github.com/NoRicePls/github-project.git`
  Enter the following from the project directory terminal:
 #### 2. `npm start`
