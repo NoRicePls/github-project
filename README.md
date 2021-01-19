@@ -12,7 +12,7 @@
 ## App Host on Heroku
 * For global host by Heroku, please click [here](https://cicd-github-project.herokuapp.com/).
 
-## local Host
+## Local Host
 #### 1. `git clone https://github.com/NoRicePls/github-project.git`
  Enter the following from the project directory terminal:
 #### 2. `npm start`
