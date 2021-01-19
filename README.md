@@ -14,9 +14,8 @@
 * For local host using Visual Studio (VS), please click here.
 #### 1. `git clone https://github.com/NoRicePls/github-project.git`
  Enter the following from the project directory terminal:
-#### 2. `npm install`
-#### 3. `npm start`
-#### 4. open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### 2. `npm start`
+#### 3. open [http://localhost:3000](http://localhost:3000) to view it in the browser.
  The page will reload if you make edits and you will also see any lint errors in the console.
 
 ## Steps For Setting Up 
