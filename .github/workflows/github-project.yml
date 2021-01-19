@@ -36,7 +36,7 @@ jobs:
     
     - name: Add remote origin
       run: |
-        git remote add heroku https://heroku:${{ secrets.HEROKU_API_KEY }}@git.heroku.com/${{ secrets.HEROKU_CICDPROJECTAPP }}.git
+        git remote add heroku https://heroku:${{ secrets.HEROKU_API_KEY }}@git.heroku.com/${{ secrets.HEROKU_cicd-github-project }}.git
     - name: Deploy to Heroku
       run: |
         git push heroku HEAD:master -f
