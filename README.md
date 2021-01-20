@@ -1,8 +1,7 @@
 # Continuous Integration / Continuous Deployment (CI/CD) project
 
-## Application Source Code using React App
-
-* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Application Source Code
+use React App
 
 ## CI/CD Pipeline
 * Use Github actions to create a CI/CD pipeline.
